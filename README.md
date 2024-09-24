@@ -1,8 +1,13 @@
-# React + Vite
+# Portafolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Un portafolio sencillo hecho como practica.
+Planeo ampliarlo en un futuro cercano.
 
-Currently, two official plugins are available:
+## Tecnologias usadas:
+* Tailwind css
+* React Js
+* Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Utilice Tailwind para los estilos.
+React para la interfaz.
+Vite para crear el proyecto.

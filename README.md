@@ -11,3 +11,5 @@ Planeo ampliarlo en un futuro cercano.
 Utilice Tailwind para los estilos.
 React para la interfaz.
 Vite para crear el proyecto.
+
+[captura.png]
